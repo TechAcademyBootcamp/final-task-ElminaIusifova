@@ -81,6 +81,17 @@ class Azercell(TestCase):
         actual_warning_message=self.browser_driver.find_element_by_css_selector('#mat-error-1').text
         assert expected_warning_message==actual_warning_message
 
+#PASSED
+    def test_fill_password_field_with_alphanumeric_and_special_characters(self):
+        self.browser_driver.get('http://azercell.com/my/login')
+        self.browser_driver.find_element_by_css_selector('#mat-input-1').send_keys('518179001')
+        self.browser_driver.find_element_by_css_selector('#mat-input-2').click()
+        self.browser_driver.find_element_by_css_selector('#mat-input-2').send_keys('a1!@2A')
+        expected_password="a1!@2A"
+        actual_password=self.browser_driver.find_element_by_css_selector('#mat-input-2').get_attribute('value')
+        assert expected_password==actual_password
+
+
 
 
 

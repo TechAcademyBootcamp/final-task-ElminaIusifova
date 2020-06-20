@@ -296,3 +296,7 @@ JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 55
 1592630955895	Marionette	INFO	Listening on port 52134
 1592630955933	Marionette	WARN	TLS certificate errors will be ignored for this session
 1592631038543	Marionette	INFO	Stopped listening on port 52134
+1592631729645	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileUe5qxk"
+1592631732458	Marionette	INFO	Listening on port 54503
+1592631732565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592631818521	Marionette	INFO	Stopped listening on port 54503

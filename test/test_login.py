@@ -91,6 +91,20 @@ class Azercell(TestCase):
         actual_password=self.browser_driver.find_element_by_css_selector('#mat-input-2').get_attribute('value')
         assert expected_password==actual_password
 
+#FAILED  actual alert doesnt exist
+    def test_login_with_not_registered_number(self):
+        self.browser_driver.get('http://azercell.com/my/login')
+        self.browser_driver.find_element_by_css_selector('#mat-input-1').send_keys('518951066')
+        self.browser_driver.find_element_by_css_selector('#mat-input-2').click()
+        self.browser_driver.find_element_by_css_selector('#mat-input-2').send_keys('123456a')
+        self.browser_driver.find_element_by_css_selector('.btn').click()
+        expected_alert="Wrong password"
+        actual_alert=self.browser_driver.find_element_by_css_selector('').text
+        assert expected_alert==actual_alert
+
+
+
+
 
 
 
@@ -123,10 +137,5 @@ class Azercell(TestCase):
 
 
 
-
-        # self.browser_driver.find_element_by_css_selector('#mat-input-2').click
-        # expected_input = ''
-        # actual_input=self.browser.find_element_by_css_selector('#mat-input-1').get_attribute('value')
-        # expected_input == actual_input
 
 

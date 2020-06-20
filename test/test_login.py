@@ -69,6 +69,22 @@ class Azercell(TestCase):
         assert expected_input == actual_input
 
 #PASSED
+    def test_password_not_filled(self):
+        self.browser_driver.get('http://azercell.com/my/login')
+        self.browser_driver.find_element_by_css_selector('#mat-input-1').send_keys('518179001')
+        self.browser_driver.find_element_by_css_selector('#mat-input-2').click()
+        self.browser_driver.find_element_by_css_selector('div.row:nth-child(5)').click()
+        expected_input_password=""
+        actual_input_password=self.browser_driver.find_element_by_css_selector('#mat-input-2').get_attribute('value')
+        assert expected_input_password==actual_input_password
+        expected_warning_message="Enter the password"
+        actual_warning_message=self.browser_driver.find_element_by_css_selector('#mat-error-1').text
+        assert expected_warning_message==actual_warning_message
+
+
+
+
+#PASSED
     def test_login_with_registered_user_using_correct_credentials(self):
         self.browser_driver.get('http://azercell.com/my/login')
         self.browser_driver.find_element_by_css_selector('#mat-input-1').click()

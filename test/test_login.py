@@ -41,6 +41,13 @@ class Azercell(TestCase):
         actual_warning = self.browser_driver.find_element_by_css_selector('#mat-error-3').text
         assert expected_warning == actual_warning
 
+    def test_enter_long_number(self):
+        self.browser_driver.get('http://azercell.com/my/login')
+        self.browser_driver.find_element_by_css_selector('#mat-input-1').send_keys('0518179001')
+        self.browser_driver.find_element_by_css_selector('#mat-input-2').click()
+        expected_warning = ''
+        actual_warning = self.browser_driver.find_element_by_css_selector('#mat-error-3').text
+        assert expected_warning == actual_warning
 
     def test_login_with_registered_user_using_correct_credentials(self):
         self.browser_driver.get('http://azercell.com/my/login')

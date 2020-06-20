@@ -102,6 +102,28 @@ class Azercell(TestCase):
         actual_alert=self.browser_driver.find_element_by_css_selector('').text
         assert expected_alert==actual_alert
 
+#CANNOT INSPECT ALERT TEXT
+    # def test_try_to_login_with_registered_number_without_password(self):
+    #     self.browser_driver.get('http://azercell.com/my/login')
+    #     self.browser_driver.find_element_by_css_selector('#mat-input-1').send_keys('518179001')
+    #     self.browser_driver.find_element_by_css_selector('.btn').click()
+    #     expected_alert_message='The form has not completed properly'
+    #     actual_alert_message=self.browser_driver.switch_to()alert().text
+    #     expected_alert_message==actual_alert_message
+
+
+#CANNOT INSPECT ALERT TEXT
+    # def test_login_with_registered_number_using_wrong_credentials(self):
+    #     self.browser_driver.get('http://azercell.com/my/login')
+    #     self.browser_driver.find_element_by_css_selector('#mat-input-1').send_keys('518179001')
+    #     self.browser_driver.find_element_by_css_selector('#mat-input-2').click()
+    #     self.browser_driver.find_element_by_css_selector('#mat-input-2').send_keys('a123456')
+    #     self.browser_driver.find_element_by_css_selector('.btn').click()
+    #     expected_alert_error='Wrong password'
+    #     actual_alert_error=self.browser_driver.switch_to()alert().text
+    #     expected_alert_error==actual_alert_error
+
+
 
 
 

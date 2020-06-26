@@ -1861,3 +1861,302 @@ TimedPromise@chrome://marionette/content/sync.js:230:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
 webdriverClickElement@chrome://marionette/content/interaction.js:182:31
 1593062414663	Marionette	INFO	Stopped listening on port 54004
+1593137436458	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileTM6IPm"
+1593137439530	Marionette	INFO	Listening on port 50245
+1593137439565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593137460922	Marionette	INFO	Stopped listening on port 50245
+1593137700850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofilegy68Ai"
+1593137703283	Marionette	INFO	Listening on port 50557
+1593137703359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593137717358	Marionette	INFO	Stopped listening on port 50557
+1593137784893	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofilevwTzvp"
+1593137787413	Marionette	INFO	Listening on port 50691
+1593137787511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593137801700	Marionette	INFO	Stopped listening on port 50691
+1593137990233	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileGiv614"
+1593137992755	Marionette	INFO	Listening on port 50882
+1593137992847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593138004198	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138004960	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138009062	Marionette	INFO	Stopped listening on port 50882
+1593138146229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileS1bdBc"
+1593138148873	Marionette	INFO	Listening on port 51039
+1593138148947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593138159537	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138160788	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138164575	Marionette	INFO	Stopped listening on port 51039
+1593138220106	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofilec3IwR0"
+1593138222752	Marionette	INFO	Listening on port 51163
+1593138222824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593138234513	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138235726	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138239690	Marionette	INFO	Stopped listening on port 51163
+1593138341127	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofile0pBNZ1"
+1593138343643	Marionette	INFO	Listening on port 51315
+1593138343740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593138353198	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138354418	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138358239	Marionette	INFO	Stopped listening on port 51315
+1593138485081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileslNPsH"
+1593138487704	Marionette	INFO	Listening on port 51468
+1593138487806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593138497689	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138498899	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138502779	Marionette	INFO	Stopped listening on port 51468
+1593138634518	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofilec7VSMx"
+1593138636960	Marionette	INFO	Listening on port 51626
+1593138637030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593138650448	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138655022	Marionette	INFO	Stopped listening on port 51626
+1593138704491	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileX17yGT"
+1593138707023	Marionette	INFO	Listening on port 51755
+1593138707105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593138717080	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138718288	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138722094	Marionette	INFO	Stopped listening on port 51755
+1593138893087	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileWyrXNI"
+1593138895518	Marionette	INFO	Listening on port 52017
+1593138895586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593138909896	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593138924239	Marionette	INFO	Stopped listening on port 52017
+1593139013971	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofilez2jjST"
+1593139016427	Marionette	INFO	Listening on port 52652
+1593139016475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593139031342	Marionette	INFO	Stopped listening on port 52652
+1593139575075	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileU5o5EZ"
+1593139577541	Marionette	INFO	Listening on port 55220
+1593139577580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593139599567	Marionette	INFO	Stopped listening on port 55220
+1593139658767	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofilehO1JLI"
+1593139661141	Marionette	INFO	Listening on port 55675
+1593139661167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593139671894	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593139673142	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593139686464	Marionette	INFO	Stopped listening on port 55675
+1593139718425	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofilevJvxmf"
+1593139720674	Marionette	INFO	Listening on port 56027
+1593139720716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593139742876	Marionette	INFO	Stopped listening on port 56027
+1593139794803	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofilek1Tzcb"
+1593139797146	Marionette	INFO	Listening on port 56453
+1593139797209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593139811308	Marionette	INFO	Stopped listening on port 56453
+1593139829161	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileP0tA9H"
+1593139831494	Marionette	INFO	Listening on port 56696
+1593139831564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593139844346	Marionette	INFO	Stopped listening on port 56696
+1593139965174	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileHpKyaK"
+1593139967539	Marionette	INFO	Listening on port 57373
+1593139967576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593139977553	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593139978761	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593139981452	Marionette	INFO	Stopped listening on port 57373
+1593140039013	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileXtxDKN"
+1593140041285	Marionette	INFO	Listening on port 57783
+1593140041308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593140051485	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593140052702	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593140066016	Marionette	INFO	Stopped listening on port 57783
+1593140085452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileqaaBX2"
+1593140087686	Marionette	INFO	Listening on port 58066
+1593140087743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593140109753	Marionette	INFO	Stopped listening on port 58066
+1593140343926	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileLOh5A5"
+1593140346274	Marionette	INFO	Listening on port 58802
+1593140346319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593140360063	Marionette	INFO	Stopped listening on port 58802
+1593140789896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofilecUOTz2"
+1593140792249	Marionette	INFO	Listening on port 60797
+1593140792291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593140802705	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593140807209	Marionette	INFO	Stopped listening on port 60797
+1593141004992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofilefki2GH"
+1593141007298	Marionette	INFO	Listening on port 61799
+1593141007391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593141019872	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593141021081	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593141025525	Marionette	INFO	Stopped listening on port 61799
+1593141048340	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileRtNOSp"
+1593141050665	Marionette	INFO	Listening on port 62083
+1593141050736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593141066104	Marionette	INFO	Stopped listening on port 62083
+1593141118837	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileV0poKD"
+1593141121142	Marionette	INFO	Listening on port 62477
+1593141121239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593141132302	Marionette	INFO	Stopped listening on port 62477
+1593141190320	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileK1MPBr"
+1593141192644	Marionette	INFO	Listening on port 62861
+1593141192713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593141205457	Marionette	INFO	Stopped listening on port 62861
+1593141236062	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileU42tou"
+1593141238437	Marionette	INFO	Listening on port 63146
+1593141238467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593141249122	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593141250352	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593141251754	Marionette	INFO	Stopped listening on port 63146
+1593141396914	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofilepCWvPi"
+1593141399173	Marionette	INFO	Listening on port 63897
+1593141399205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593141410219	Marionette	INFO	Stopped listening on port 63897
+1593141472608	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileyyKeoV"
+1593141474917	Marionette	INFO	Listening on port 64302
+1593141475004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593141484810	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593141487224	Marionette	INFO	Stopped listening on port 64302
+1593141585473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofile5zM0UV"
+1593141587802	Marionette	INFO	Listening on port 64859
+1593141587873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593141599521	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593141600253	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593141645615	Marionette	INFO	Stopped listening on port 64859
+1593141669548	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileO7Yq9H"
+1593141671791	Marionette	INFO	Listening on port 65325
+1593141671834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593141727230	Marionette	INFO	Stopped listening on port 65325
+1593141808943	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofiletpTa1U"
+1593141811447	Marionette	INFO	Listening on port 49634
+1593141811546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593141823242	Marionette	INFO	Stopped listening on port 49634
+1593141831864	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofile5rfa1L"
+1593141834140	Marionette	INFO	Listening on port 49831
+1593141834162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593141849680	Marionette	INFO	Stopped listening on port 49831
+1593141856391	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofileORRGGm"
+1593141858725	Marionette	INFO	Listening on port 50036
+1593141858786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593141869516	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593141874085	Marionette	INFO	Stopped listening on port 50036
+1593141897466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofilewz1qbd"
+1593141899813	Marionette	INFO	Listening on port 50309
+1593141899865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593141911501	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593141912692	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593141958162	Marionette	INFO	Stopped listening on port 50309
+1593142028646	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/r4_pylns5tvfwy9gs30x11lc0000gn/T/rust_mozprofile8cXffP"
+1593142030973	Marionette	INFO	Listening on port 50961
+1593142031047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593142053099	Marionette	INFO	Stopped listening on port 50961
